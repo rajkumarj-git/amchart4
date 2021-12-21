@@ -1,0 +1,49 @@
+{
+    "Domain": "Others",
+    "Tool": "MS office",
+    "Score": 65
+}, {
+    "Domain": "Others",
+    "Tool": "CAD",
+    "Score": 71
+}, {
+    "Domain": "Others",
+    "Tool": "CMS",
+    "Score": 81
+}, {
+    "Domain": "Productive",
+    "Tool": "git",
+    "Score": 20
+}, {
+    "Domain": "Productive",
+    "Tool": "scrum",
+    "Score": 40
+}, {
+    "Domain": "Productive",
+    "Tool": "npm",
+    "Score": 60
+}, {
+    "Domain": "code",
+    "Tool": "html",
+    "Score": 85
+}, {
+    "Domain": "code",
+    "Tool": "css",
+    "Score": 93
+}, {
+    "Domain": "code",
+    "Tool": "jquery",
+    "Score": 56
+}, {
+    "Domain": "Design",
+    "Tool": "photoshop",
+    "Score": 90
+}, {
+    "Domain": "Design",
+    "Tool": "Illustrator",
+    "Score": 70
+}, {
+    "Domain": "Design",
+    "Tool": "xd",
+    "Score": 86
+}
